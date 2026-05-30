@@ -1,4 +1,4 @@
-# 🚖 Sistema de Gestión de Servicios - Cooperativa de Taxis Multizona
+Sistema de Gestión de Servicios - Cooperativa de Taxis Multizona
 
 ## 1. Resumen Ejecutivo del Proyecto
 El sistema resuelve la problemática de gestión operativa de una cooperativa de taxis distribuidos en una red urbana multizona con restricciones dinámicas de conectividad vial. El software automatiza desde la recepción encolada de solicitudes por operadores hasta la asignación óptima de conductores basados en su habilitación de servicio y viabilidad de rutas, consolidando toda la información en un historial persistente. El objetivo general es construir una aplicación robusta, modular y extensible bajo el paradigma orientado a objetos, garantizando una arquitectura limpia. Su valor académico radica en la integración transversal de estructuras de datos complejas (grafos para la red vial) con patrones de diseño, principios SOLID, control estricto de excepciones y persistencia, sirviendo como métrica de la capacidad de diseño arquitectónico y sustentación técnica del estudiante.
